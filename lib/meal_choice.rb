@@ -3,5 +3,5 @@
 
 def meal_choice(carrots, broccoli, chicken = tofu)
   puts "What a nutritious meal!"
-  puts "A plate of #{chicken} with #{carrots} and # {broccoli}."
+  puts "A plate of #{chicken} with #{carrots} and #{broccoli}."
 end
